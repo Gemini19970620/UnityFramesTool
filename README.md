@@ -1,0 +1,2 @@
+# UnityFramesTool
+Unity中一个可以方便播放序列帧动画的小插件
